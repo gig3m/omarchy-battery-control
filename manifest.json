@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.gig3m.battery-control",
+  "name": "Battery Control",
+  "version": "0.1.0",
+  "author": "gig3m",
+  "license": "MIT",
+  "description": "Omarchy's battery widget plus a charge limit toggle, a 10-minute watts graph and the apps using the most CPU.",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Panel.qml"
+  },
+  "barWidget": {
+    "displayName": "Battery Control",
+    "description": "Battery, power profile and system stats, with a charge limit toggle, watts history and top power users",
+    "category": "System",
+    "allowMultiple": false
+  }
+}

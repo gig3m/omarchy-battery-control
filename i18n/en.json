@@ -1,0 +1,9 @@
+{
+  "chargeLimit.title": "Charge limit",
+  "chargeLimit.on": "Stops charging at %1 to protect the battery",
+  "chargeLimit.off": "Charges to 100%. Turn on to stop at %1",
+  "history.drain": "Power draw · last 10 min",
+  "history.charge": "Charge rate · last 10 min",
+  "topApps.title": "Top power users · CPU",
+  "topApps.cpu": "%1% CPU"
+}
